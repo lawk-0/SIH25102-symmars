@@ -6,7 +6,18 @@ Smart India Hackathon 2025 Project - AI-based drop-out prediction and counseling
 
 <details>
 <summary>Click to view</summary>
+  
+Data Engineer (Yashika/Mrinalendu/Ritik) → Works inside data/ (raw + processed).
 
+Backend Dev (Shubhra/Manaswini) → Works inside backend/.
+
+ML Engineer (Shubh) → Works inside ml/.
+
+Frontend Dev (Shubhra/Manaswini) → Works inside frontend/.
+
+Notification Engineer (Ritik/Yashika/Mrinalendu) → Works inside notifications/.
+
+Presentation Lead (Mrinalendu/Ritik/Yashika) → Works inside docs/.
 ```bash
 SIH25102-symmars/
 ├── backend/                     # APIs + risk scoring logic
