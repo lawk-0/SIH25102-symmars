@@ -3,6 +3,7 @@ Smart India Hackathon 2025 Project - AI-based drop-out prediction and counseling
 
 
 ## 📂 Project Structure
+
 SIH25102-symmars/
 ├── backend/        # Flask/FastAPI APIs
 ├── frontend/       # Streamlit/React dashboard
